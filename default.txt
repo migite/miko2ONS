@@ -1,0 +1,12 @@
+*define
+caption "›Ş—•‘ for ONScripter"
+nsa
+
+globalon
+windowback
+pretextgosub *pretext_sb
+humanz 30
+savenumber 18
+
+;numalias—Ìˆæ
+numalias name,100
